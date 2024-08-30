@@ -85,7 +85,7 @@ body{
 .content-area {
     flex: 1;
     display: flex;
-    flex-direction: column; /* Alinea elementos verticalmente */
+    flex-direction: column; 
     margin-left: 20px;
 }
 
@@ -96,7 +96,7 @@ body{
     justify-content: center;
     align-items: center;
     height: 300px;
-    margin-bottom: 20px; /* Agrega espacio entre el video y el contenido adicional */
+    margin-bottom: 20px;
 }
 
 .video {
